@@ -118,5 +118,5 @@ Tech Stack
 
 Author
 
-Developed by Sattar Almohsin
-Developer & Engineer — AI, Energy, and Data Systems
+Sattar Almohsin
+| Developer & Engineer — AI, Energy, and Data Systems

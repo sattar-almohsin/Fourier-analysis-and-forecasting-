@@ -89,7 +89,8 @@ Python 3.11+
 
 1. Clone the repository
 
-git clone https://github.com/USERNAME/REPO-NAME.git cd REPO-NAME
+git clone https://github.com/sattar-almohsin/Fourier-analysis-and-forecasting-.git
+cd Fourier-analysis-and-forecasting-
 
 2. Install dependencies
 

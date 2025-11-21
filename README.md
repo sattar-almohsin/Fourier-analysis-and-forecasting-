@@ -116,6 +116,13 @@ Tech Stack
 
 ------------------------------------------------------------------------
 
+## Live Demo
+
+You can try the app here:  
+https://fft-analysis-and-forecasting.streamlit.app/
+
+------------------------------------------------------------------------
+
 Author
 
 Sattar Almohsin
